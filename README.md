@@ -1,12 +1,1 @@
-# Kotlin-Dasar
-# Kotlin-Dasar
-# Kotlin-Dasar
-# Kotlin-Dasar
-# Kotlin-Dasar
-# Kotlin-dasar
-# Kotlin-dasar
-# Kotlin-dasar
-# kotlin-dasar
-# jobsheet1-kotlin-dasar
-# jobsheet1-kotlin-dasar
 # jobsheet1-kotlin-dasar
